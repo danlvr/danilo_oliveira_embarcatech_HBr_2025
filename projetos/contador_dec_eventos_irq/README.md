@@ -32,7 +32,7 @@ Este projeto implementa um contador com tratamento de eventos por interrupções
 1. Clone o repositório:
    ```bash
    git clone https://github.com/danlvr/danilo_oliveira_embarcatech_HBr_2025.git
-   cd contador_dec_eventos_irq
+   cd projetos/contador_dec_eventos_irq
    ```
 
 2. Configure a variável de ambiente do SDK Pico (se ainda não estiver configurada):

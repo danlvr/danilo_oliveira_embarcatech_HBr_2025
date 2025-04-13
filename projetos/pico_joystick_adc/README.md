@@ -32,7 +32,7 @@ Este projeto utiliza um microcontrolador RP2040 na placa BitDogLab para ler os e
 1. Clone o repositório:
    ```bash
    git clone https://github.com/danlvr/danilo_oliveira_embarcatech_HBr_2025.git
-   cd pico_joystick_adc
+   cd projetos/pico_joystick_adc
    ```
 
 2. Configure a variável de ambiente do SDK Pico (se ainda não estiver configurada):
